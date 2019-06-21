@@ -2,7 +2,7 @@
 Arduino and Nodemcu Projects
 
 Digital Scoreboard (Arduino):
-  This sketch is the DIY Volleyball LED Scoreboard using an Arduino Uno. This uses customized STR Library.
+  This sketch is the DIY Volleyball LED Scoreboard using an Arduino Uno. This uses a customized ShiftSTR Library.
   
 Oil Tank (NODEMCU):
   This sketch mesures the amount of fuel left in my oil tank using NODEMCU and JSN-SR04T. This uses NewPing Library slightly modified. 
