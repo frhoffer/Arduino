@@ -3,7 +3,7 @@ Arduino and Nodemcu Projects
 
 Digital Scoreboard (Arduino):
   This sketch is the DIY Volleyball LED Scoreboard using an Arduino Uno. This uses a customized ShiftSTR Library.
-  v5.8 - one recall
+  v5.8 - allows for only one recall.
   v5.9 - recall upto 4 scores so refs can recall previous scores.
   
 Oil Tank (NODEMCU):
