@@ -11,4 +11,7 @@ Oil Tank (NODEMCU):
   I made changes to NewPing.h ONE_PIN_ENABLED false. Changed NewPing.cpp changed delayMicroseconds(10); to delayMicroseconds(20);
   
 Stranger Things (NODEMCU):
-  This sketch is using the FastLED libraries and 
+  This sketch is using the FastLED libraries and WS2811 Bullet type lights creating a Stranger Things Display.
+  
+  Halloween Window Display (NODEMCU):
+   This sketch is using the FastLED libraries and WS2813 tape lights to back light some window silhouettes.
